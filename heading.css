@@ -5,6 +5,10 @@ padding-bottom: 12.5px;
 vertical-align: top;
     }
 
+#pollquestioncreator{
+  padding-bottom: 25px;
+}
+
 #CSearch_text
     {
 display: inline;
